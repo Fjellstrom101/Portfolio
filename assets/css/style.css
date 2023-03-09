@@ -537,3 +537,8 @@ h6,
 .active span {
   border-bottom: 1px solid orange !important;
 }
+.btn-cv:hover {
+  background-color: orange;
+  border: 0px !important;
+  transition: 500ms;
+}
